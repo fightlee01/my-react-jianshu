@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "data": {
+    "acticleList": [{
+      "id": 5,
+      "imgUrl": "//upload-images.jianshu.io/upload_images/2106228-e7001e5226764113.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+      "title": "初学写作，很适合用随笔练手（含练习题）",
+      "content": "对初学写作者来说，随笔是一种很好的练习文体。 没有字数限制，没有内容限制，可以自由发挥。 作家安妮·狄勒德说：没有什么是你不能用随笔写的，不限题..."
+    }, {
+      "id": 6,
+      "imgUrl": "//upload-images.jianshu.io/upload_images/2106228-e7001e5226764113.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+      "title": "初学写作，很适合用随笔练手（含练习题）",
+      "content": "对初学写作者来说，随笔是一种很好的练习文体。 没有字数限制，没有内容限制，可以自由发挥。 作家安妮·狄勒德说：没有什么是你不能用随笔写的，不限题..."
+    }, {
+      "id": 7,
+      "imgUrl": "//upload-images.jianshu.io/upload_images/2106228-e7001e5226764113.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+      "title": "初学写作，很适合用随笔练手（含练习题）",
+      "content": "对初学写作者来说，随笔是一种很好的练习文体。 没有字数限制，没有内容限制，可以自由发挥。 作家安妮·狄勒德说：没有什么是你不能用随笔写的，不限题..."
+    }, {
+      "id": 8,
+      "imgUrl": "//upload-images.jianshu.io/upload_images/2106228-e7001e5226764113.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+      "title": "初学写作，很适合用随笔练手（含练习题）",
+      "content": "对初学写作者来说，随笔是一种很好的练习文体。 没有字数限制，没有内容限制，可以自由发挥。 作家安妮·狄勒德说：没有什么是你不能用随笔写的，不限题..."
+    }]
+  }
+}
